@@ -109,11 +109,12 @@ Git · Agile (Scrum / Kanban) · Jira · Confluence · Stripe Integration · Aut
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajukumaryadav&show_icons=true&theme=react" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajukumaryadav&layout=compact&theme=react" height="150" />
-</p>
+🎨 Portfolio
+
+Explore my portfolio of cross-platform applications and data-driven projects, showcasing work in React Native, Flutter, Collibra Lineage Automation, and Full-Stack Web Development.
+Each project highlights my focus on scalable architecture, clean UI design, and end-to-end DevOps integration — from frontend to backend, and deployment on modern cloud platforms.
+
+🔗 Check out my live portfolio:  https://my-portfolio-5bcg.vercel.app/
 
 ---
 
