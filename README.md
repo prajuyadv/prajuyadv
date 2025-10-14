@@ -19,7 +19,7 @@
 ---
 
 ### 💼 Professional Summary
-Full Stack Developer with **4+ years** of experience delivering cross-platform apps for **iOS, Android, and Web**.  
+Full Stack Developer with **5+ years** of experience delivering cross-platform apps for **iOS, Android, and Web**.  
 Skilled in building secure, high-performance applications with **React Native, Flutter, Java, Spring Boot, Node.js, React.js, Angular, and TypeScript**.  
 Experienced across the full SDLC — from design to deployment — leveraging **cloud, CI/CD, and DevOps** best practices.
 
@@ -58,7 +58,7 @@ Git · Agile (Scrum / Kanban) · Jira · Confluence · Stripe Integration · Aut
 ---
 
 **Capgemini — Software Developer**  
-*India | Mar 2020 – Jul 2023*  
+*India | Oct 2019 – Jul 2023*  
 - Delivered enterprise-grade modules using **React.js + Spring Boot**, ensuring performance and security.  
 - Created **SmartHealth Tracker**, integrating **Apple HealthKit** via SwiftUI + React.js for 95% sync accuracy.  
 - Built scalable Node.js / MongoDB microservices, improving API response by **28%**.  
