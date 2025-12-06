@@ -111,7 +111,7 @@ Git · Agile (Scrum / Kanban) · Jira · Confluence · Stripe Integration · Aut
 
 🎨 Portfolio
 
-Explore my portfolio of cross-platform applications and data-driven projects, showcasing work in React Native, Flutter, Collibra Lineage Automation, and Full-Stack Web Development.
+Explore my portfolio of cross-platform applications and data-driven projects, showcasing work in React.js, React Native, Flutter, UI/UX and Full-Stack Web Development,Spring Boot, Node.js, Firebase, Supabase, Typescript and javascript,
 Each project highlights my focus on scalable architecture, clean UI design, and end-to-end DevOps integration — from frontend to backend, and deployment on modern cloud platforms.
 
 🔗 Check out my live portfolio:  https://my-portfolio-5bcg.vercel.app/
@@ -119,8 +119,8 @@ Each project highlights my focus on scalable architecture, clean UI design, and 
 ---
 
 ### 🏆 Highlights & Interests
-- 💡 Built and deployed real-world platforms: *ShopGadgets, Maintenance Hub, SmartHealth Tracker*
-- 🧩 Specialized in **Collibra Data Lineage Automation** and metadata visualization UI
+- 💡 Built and deployed real-world platforms: *ShopGadgets,and Maintenance Hub, Vicrtoria secret , BOOTs apps for clients*
+- 🧩 Specialized in **Building WEB & MOBIle Applicatioins** from scratch to deployment level
 - ☁️ Passionate about cloud automation and scalable CI/CD systems
 - 🎵 Outside code: dancing, design, and exploring creative UI animation
 
