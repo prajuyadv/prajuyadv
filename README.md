@@ -19,7 +19,7 @@
 ---
 
 ### 💼 Professional Summary
-Full Stack Developer with **5+ years** of experience delivering cross-platform apps for **iOS, Android, and Web**.  
+AI Full Stack Developer with **6+ years** of experience delivering cross-platform apps for **iOS, Android, and Web**.  
 Skilled in building secure, high-performance applications with **React Native, Flutter, Java, Spring Boot, Node.js, React.js, Angular, and TypeScript**.  
 Experienced across the full SDLC — from design to deployment — leveraging **cloud, CI/CD, and DevOps** best practices.
 
@@ -28,7 +28,7 @@ Experienced across the full SDLC — from design to deployment — leveraging **
 ### 🧰 Technical Skills
 
 **Frontend Development:**  
-React.js · React Native · Next.js · Angular · TypeScript · JavaScript (ES6+) · Redux Toolkit · Tailwind CSS · Material UI · Jest · Playwright
+React.js · React Native · Next.js · Angular · TypeScript · JavaScript (ES6+) · Redux Toolkit · Tailwind CSS · Material UI · Jest · Playwright AI/ML
 
 **Backend & APIs:**  
 Spring Boot (Java) · Node.js · Express.js · RESTful APIs · GraphQL · Microservices · PostgreSQL · MongoDB · Firebase Functions · WebSockets · OAuth 2.0 · Secure Storage
